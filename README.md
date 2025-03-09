@@ -66,12 +66,10 @@ python3 Xena.py 60 192.168.1.1 80 1024 5 udp
 
 ---
 
-## 📜 License & Disclaimer
-⚖️ **License:**
-Script ini bersifat open-source dan dibuat untuk tujuan edukasi serta pengujian keamanan. Anda diperbolehkan untuk memodifikasi dan mendistribusikan script ini sesuai dengan ketentuan lisensi yang berlaku.
+## ⚠️ Peringatan
+> Script ini bersifat open-source dan dibuat untuk tujuan edukasi serta pengujian keamanan. Anda diperbolehkan untuk memodifikasi dan mendistribusikan script ini sesuai dengan ketentuan lisensi yang berlaku.
 
-⚠️ **Peringatan:**
-Penggunaan alat ini sepenuhnya menjadi tanggung jawab pengguna!
+> Penggunaan alat ini sepenuhnya menjadi tanggung jawab pengguna!
 Kami tidak bertanggung jawab atas segala bentuk penyalahgunaan yang bertentangan dengan hukum atau merugikan pihak lain. Gunakan hanya untuk pengujian keamanan, riset pribadi, dan pembelajaran di lingkungan yang diizinkan.
 
 **Jangan gunakan untuk aktivitas ilegal!**
