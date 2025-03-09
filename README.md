@@ -36,8 +36,8 @@ Pastikan **Python 3** sudah terinstal di sistem Anda!
 
 ### **2️⃣ Clone Repository**
 ```bash
-git clone https://github.com/username/XenaaLangliss.git
-cd XenaaLangliss
+git clone https://github.com/XenaaLangliss/XenL4
+cd XenL4
 ```
 
 ### **3️⃣ Jalankan Install Script**
@@ -53,7 +53,7 @@ python3 Xen.py <waktu> <ip> <port> <packet> <threads> <mode>
 ```
 📝 **Contoh:**  
 ```bash
-python3 XenaaLangliss.py 60 192.168.1.1 80 1024 5 udp
+python3 Xena.py 60 192.168.1.1 80 1024 5 udp
 ```
 > 🔥 **UDP & TCP Attack dalam hitungan detik!**
 
