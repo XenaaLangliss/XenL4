@@ -5,6 +5,7 @@ XenaaLangliss v1 adalah **Layer 4 Attack Tool (UDP & TCP Flooder)** yang dapat d
 Dilengkapi dengan **log serangan real-time, auto-monitoring IP, dan multi-threading** untuk performa maksimal!
 
 > **🚨 PERINGATAN:** Script ini hanya untuk **pengujian keamanan & pembelajaran**.
+
 > **⚠️ Penyalahgunaan dapat melanggar hukum di negara Anda!**
 
 ---
